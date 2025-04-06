@@ -1,0 +1,54 @@
+rag retrieval problems:
+- Who are the insured on the policy? (Vector datastore-- easy)
+- What claims were made by the insured in the last twelve months and how were they adjudicated? (graph database --difficult)
+- List all the unique terms and conditions in the insurance policy? (graph database --difficult)
+
+Making the Right Choice:
+Choosing between vector databases and knowledge graphs for your RAG implementation ultimately depends on your specific use case, data characteristics, and organizational requirements. Here are some key considerations to guide your decision:
+
+1. Data Complexity:
+Assess the nature and complexity of your data. If your data is mostly unstructured and lacks intricate relationships, a vector database may suffice. However, if your data is rich with interrelated concepts and entities, a knowledge graph may be more appropriate.
+
+2. Query Requirements:
+Consider the types of queries your RAG system needs to handle. If you primarily deal with simple retrieval tasks or similarity searches, a vector database can provide fast and efficient results. On the other hand, if you require complex reasoning and inference based on the relationships between entities, a knowledge graph may be a better fit.
+
+3. Explainability:
+Determine the level of explainability required for your use case. If transparency and traceability are crucial, knowledge graphs offer a clear advantage by allowing you to trace the reasoning path and understand how the system arrived at a particular answer.
+
+4. Scalability:
+Evaluate the scalability requirements of your RAG system. Vector databases are generally more scalable and can handle larger datasets with ease. Knowledge graphs, while powerful, may require more effort to scale efficiently as the data grows.
+
+5. Skill Set and Resources:
+Consider the expertise and resources available within your organization. Building and maintaining knowledge graphs often requires specialized skills in data modeling, ontology development, and graph algorithms. Vector databases, on the other hand, may have a lower barrier to entry and require less specialized knowledge. 
+
+Prompts:
+"""Following text contains a list of automotive regulation compliance text, most of the time its either a requirement or a definition.
+Your task is to perform for each regulation the following actions in order:
+- identify the id of regulation (located at the beginning of the regulation such as 1.2.3 or 2.6 ...)
+- identify any mention of other regulations within the text. example "regard to the items mentioned in paragraph 2.1.1"
+- identify entity relations, there are only 2 relations to consider:
+1. 'child of' example: regulation 3.2.1 is 'child_of' regulation 3.2
+2. 'mentions' example: "3.2.1.\nA description of the vehicle type with regard to the items mentioned in paragraph 2.1.1," so 3.2.1 mentions 2.1.1
+Except root regulations (regulations having ids not containing any dot) each regulation has one 'child_of' relation pointing to its direct parent.
+The 'mentions' relationship is optional and it should only be listed if the regulation clearly mentions another regulation.
+The output must solely consist in one or more lists in the format [REGULATION_ID, RELATION, REGULATION_ID] for each regulation.
+The output must be formatted in a json format where the keys are the regulation id and the value is a list of lists of relationships
+Example:
+###prompt: [
+    "3.2.1.\nA description of the vehicle type with regard to the items mentioned in paragraph 2.1.1, together with a documentation package as required in Annex 4 which gives access to the basic design of the ALKS and the means by which it is linked to other vehicle systems or by which it directly controls output variables. The numbers and/or symbols identifying the vehicle type shall be specified.",
+    ""5.2.3.3.\nThe activated system shall detect the distance to the next vehicle in front as defined in paragraph 7.1.1 and shall adapt the vehicle speed in order to avoid collision.\nWhile the ALKS vehicle is not at standstill, the system shall adapt the speed to adjust the distance to a vehicle in front in the same lane to be equal or greater than the minimum following distance."
+]
+###output: 
+{
+    "3.2.1": [
+        [3.2.1, child_of, 3.2],
+        [3.2.1, mentions, 2.1.1],
+        [3.2.1, mentions, Annex 4]
+        ],
+    "5.2.3.3": [
+        [5.2.3.3, child_of, 5.2.3],
+        [5.2.3.3], mentions, 7.1.1]
+    ]
+}
+###prompt: {regulations}
+###output:"""

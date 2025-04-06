@@ -1,0 +1,897 @@
+[
+    {
+        "key": "UNR0",
+        "short_title": "International Whole Vehicle Type Approval",
+        "long_title": "Uniform provisions concerning the International Whole Vehicle Type Approval (IWVTA)"
+    },
+    {
+        "key": "UNR10",
+        "short_title": "Electromagnetic compatibility",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to electromagnetic compatibility"
+    },
+    {
+        "key": "UNR100",
+        "short_title": "Construction and Safety of Electric Powertrains",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to specific requirements for the electric power train"
+    },
+    {
+        "key": "UNR101",
+        "short_title": "Measurement of CO2, fuel/electric energy consumption and electric range",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF PASSENGER CARS POWERED BY AN INTERNAL COMBUSTION ENGINE ONLY, OR POWERED BY A HYBRID ELECTRIC POWER TRAIN WITH REGARD TO THE MEASUREMENT OF THE EMISSION OF CARBON DIOXIDE AND FUEL CONSUMPTION AND/OR THE MEASUREMENT OF ELECTRIC ENERGY CONSUMPTION AND ELECTRIC RANGE, AND OF CATEGORIES M1 AND N1 VEHICLES POWERED BY AN ELECTRIC POWER TRAIN ONLY WITH REGARD TO THE MEASUREMENT OF ELECTRIC ENERGY CONSUMPTION AND ELECTRIC RANGE"
+    },
+    {
+        "key": "UNR102",
+        "short_title": "Close-coupling device (CCD)",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF:\nI. A CLOSE-COUPLING DEVICE (CCD)\nII. VEHICLES WITH REGARD TO THE FITTING OF AN APPROVED TYPE OF CCD"
+    },
+    {
+        "key": "UNR103",
+        "short_title": "Replacement pollution control devices",
+        "long_title": "Uniform provisions concerning the approval of replacement pollution\ncontrol devices power-driven vehicles"
+    },
+    {
+        "key": "UNR104",
+        "short_title": "Retro-reflective Markings",
+        "long_title": "Uniform Provisions Concerning the Approval of Retro-reflective Markings for Vehicles of Category M, N and O"
+    },
+    {
+        "key": "UNR105",
+        "short_title": "Construction of Vehicles for the Carriage of Dangerous Goods",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles Intended for the Carriage of Dangerous Goods with regard to their Specific Constructional Features"
+    },
+    {
+        "key": "UNR106",
+        "short_title": "Pneumatic tyres for agricultural vehicles",
+        "long_title": "Uniform provisions concerning the approval of pneumatic tyres for \nagricultural vehicles and their trailers"
+    },
+    {
+        "key": "UNR107",
+        "short_title": "Construction of Coaches and Buses",
+        "long_title": "Uniform Provisions Concerning the Approval of Category M2 or M3 Vehicles with regard to their General Construction"
+    },
+    {
+        "key": "UNR108",
+        "short_title": "Retreaded pneumatic tyres for motor vehicles and their trailers",
+        "long_title": "Uniform provisions concerning the approval for the production of retreaded penumatic tyres for motor vehicles and their trailers"
+    },
+    {
+        "key": "UNR109",
+        "short_title": "Retreaded pneumatic tyres for commercial vehicles and their trailers",
+        "long_title": "Uniform provisions concerning the approval for the production of retreaded  penumatic tyres for commercial vehicles and their trailers"
+    },
+    {
+        "key": "UNR11",
+        "short_title": "Door latches and hinges",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to door latches and door retention components"
+    },
+    {
+        "key": "UNR110",
+        "short_title": "Compressed and Liquefied Natural Gas System Components",
+        "long_title": "Uniform Provisions Concerning the Approval of:\nI. Specific components of motor vehicles using compressed natural gas (CNG) and/or liquefied natural gas (LNG) in their propulsion system;\nII. Vehicles with regard to the installation of specific components of an approved type for the use of compressed natural gas (CNG) and/or liquefied natural gas (LNG) in their propulsion system."
+    },
+    {
+        "key": "UNR111",
+        "short_title": "Rollover stability of tank vehicles of categories N and O",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF TANK VEHICLES OF CATEGORIES N AND O WITH REGARD TO ROLLOVER STABILITY"
+    },
+    {
+        "key": "UNR112",
+        "short_title": "Headlamps Emitting an Asymmetrical Passing Beam",
+        "long_title": "Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Filament Lamps and/or Light-Emitting Diode (LED) Modules"
+    },
+    {
+        "key": "UNR113",
+        "short_title": "Headlamps emitting a symmetrical beam",
+        "long_title": "Uniform provisions concerning the approval of motor vehicle headlamps emitting a symmetrical passing beam or a driving beam or both and equipped with filament, gas-discharge light sources or LED modules"
+    },
+    {
+        "key": "UNR114",
+        "short_title": "Replacement Airbag Modules",
+        "long_title": "Uniform Provisions Concerning the Approval of:\n\nI. An Airbag Module for a Replacement Airbag System;\nII. A Replacement Steering Wheel Equipped with an Airbag Module of an Approved Type;\nIII. A Replacement Airbag System Other than that Installed in a Steering Wheel"
+    },
+    {
+        "key": "UNR115",
+        "short_title": "Liquefied Petroleum and Compressed Natural Gas Retrofit Systems",
+        "long_title": "Uniform Provisions Concerning the Approval of:\nI Specific LPG (Liquefied Petroleum Gases) Retrofit Systems to be Installed in Motor Vehicles for the Use of LPG in their propulsion system\nII. Specific CNG (Compressed Natural Gas) Retrofit Systems to be Installed in Motor Vehicles for the Use of CNG in their propulsion system"
+    },
+    {
+        "key": "UNR116",
+        "short_title": "Anti-theft and alarm systems",
+        "long_title": "Uniform technical prescriptions concerning the protection of motor vehicles against unauthorized use"
+    },
+    {
+        "key": "UNR117",
+        "short_title": "Tire Rolling Sound Emissions, Adhesion on Wet Surfaces, and Rolling Resistance",
+        "long_title": "Uniform provisions concerning the approval of tyres with regard to rolling sound emissions and/or to adhesion on wet surfaces and/or to rolling resistance"
+    },
+    {
+        "key": "UNR118",
+        "short_title": "Burning Behavior of Interior Materials",
+        "long_title": "Uniform Technical Prescriptions Concerning the Burning Behaviour of Materials Used in the Interior Construction of Certain Categories of Motor Vehicles"
+    },
+    {
+        "key": "UNR119",
+        "short_title": "Cornering Lamps",
+        "long_title": "Uniform Provisions Concerning the Approval of Cornering Lamps for Power-driven Vehicles"
+    },
+    {
+        "key": "UNR12",
+        "short_title": "Steering mechanism",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to the protection of the driver against the steering mechanism in the event of impact"
+    },
+    {
+        "key": "UNR120",
+        "short_title": "Net power of tractors and non-road mobile machinery",
+        "long_title": "Uniform provisions concerning the approval of internal combustion engines to be installed in agricultural and forestry tractors and in nonroad mobile machinery, with regard to the measurement of the net power, net torque and specific fuel consumption"
+    },
+    {
+        "key": "UNR121",
+        "short_title": "Location and Identification of Hand Controls, Tell-tales and Indicators",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to the Location and Identification of Hand Controls, Tell-tales and Indicators"
+    },
+    {
+        "key": "UNR122",
+        "short_title": "Heating Systems",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles of Categories M, N, and O with regard to their Heating Systems"
+    },
+    {
+        "key": "UNR123",
+        "short_title": "Adaptive Front-lighting Systems",
+        "long_title": "Uniform Provisions Concerning the Approval of Adaptive Front-lighting Systems (AFS) for Motor Vehicles"
+    },
+    {
+        "key": "UNR124",
+        "short_title": "Passenger Car and Trailer Wheels",
+        "long_title": "Uniform Provisions Concerning the Approval of Wheels for Passenger Cars and their Trailers"
+    },
+    {
+        "key": "UNR125",
+        "short_title": "Driver Forward Field of Vision",
+        "long_title": "Uniform Provisions Concerning the Approval of Motor Vehicles with regard to the Forward Field of Vision of the Motor Vehicle Driver"
+    },
+    {
+        "key": "UNR125_03_series",
+        "short_title": "Proposal for 03 Series of Amendments Regulation No. 125\n(Forward field of vision of drivers)",
+        "long_title": "Proposal for 03 Series of Amendments Regulation No. 125\n(Forward field of vision of drivers)"
+    },
+    {
+        "key": "UNR126",
+        "short_title": "Luggage Partitioning Systems for Passenger Protection",
+        "long_title": "Uniform Provisions Concerning the Approval of Partitioning Systems to Protect Passengers Against Displaced Luggage, Supplied as Non-original Vehicle Equipment"
+    },
+    {
+        "key": "UNR127",
+        "short_title": "Pedestrian Safety",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with \nregard to their pedestrian safety performance"
+    },
+    {
+        "key": "UNR128",
+        "short_title": "Light-Emitting Diode Light Sources",
+        "long_title": "Uniform provisions concerning the approval of Light Emitting Diode (LED) light sources for use in approved lamps on power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR129",
+        "short_title": "Enhanced Child Restraint Systems",
+        "long_title": "Uniform provisions concerning the approval of Enhanced Child Restraint Systems used on board of motor vehicles"
+    },
+    {
+        "key": "UNR129_4.2.0",
+        "short_title": "TODO",
+        "long_title": "TODO"
+    },
+    {
+        "key": "UNR13",
+        "short_title": "Heavy-Duty Braking",
+        "long_title": "Uniform provisions concerning the approval of vehicles of categories M, N and O with regard to braking"
+    },
+    {
+        "key": "UNR130",
+        "short_title": "Lane-departure Warning",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to the Lane Departure Warning System (LDWS)"
+    },
+    {
+        "key": "UNR131",
+        "short_title": "Heavy duty Advanced Emergency Braking",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to the Advanced Emergency Braking Systems (AEBS) - M2, M3, N2, N3"
+    },
+    {
+        "key": "UNR132",
+        "short_title": "Retrofit emission control devices (REC) for HDV, agricultural/forestry tractors, NRMM",
+        "long_title": "Uniform provisions concerning the approval of Retrofit Emission Control devices (REC) for heavy duty vehicles, agricultural and forestry tractors and non-road mobile machinery equipped with compression ignition engines"
+    },
+    {
+        "key": "UNR133",
+        "short_title": "Light Vehicle Recyclability",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to their reusability, recyclability and recoverability"
+    },
+    {
+        "key": "UNR134",
+        "short_title": "Hydrogen and Fuel Cell Vehicles (HFCV)",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles and their components with regard to the safety-related performance of hydrogen-fuelled vehicles (HFCV)\n"
+    },
+    {
+        "key": "UNR135",
+        "short_title": "Pole Side Impact (PSI)",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to their Pole Side Impact performance (PSI)\n"
+    },
+    {
+        "key": "UNR136",
+        "short_title": "Electric vehicles of category L (EV-L)",
+        "long_title": "Uniform provisions concerning the approval of vehicles of category L with regard to specific requirements for the electric power train\n"
+    },
+    {
+        "key": "UNR136_Flo_is_here",
+        "short_title": "test",
+        "long_title": "test "
+    },
+    {
+        "key": "UNR137",
+        "short_title": "Restraint System in Front Impact",
+        "long_title": "Uniform provisions concerning the approval of passenger cars in the event of a frontal collision with focus on the restraint system"
+    },
+    {
+        "key": "UNR138",
+        "short_title": "Quiet Road Transport Vehicles (QRTV)",
+        "long_title": "Uniform provisions concerning the approval of Quiet Road Transport \nVehicles with regard to their reduced audibility (QRTV)\n"
+    },
+    {
+        "key": "UNR139",
+        "short_title": "Brake Assist Systems",
+        "long_title": "Uniform provisions concerning the approval of passenger cars with \nregard to Brake Assist Systems (BAS)"
+    },
+    {
+        "key": "UNR13H",
+        "short_title": "Light Vehicle Braking",
+        "long_title": "Uniform provisions concerning the approval of passenger cars with regard to braking"
+    },
+    {
+        "key": "UNR13H_2.0.0",
+        "short_title": "TODO",
+        "long_title": "TODO"
+    },
+    {
+        "key": "UNR14",
+        "short_title": "Safety-Belt, ISOFIX, ISOFIX top tether anchorages and i-Size seating positions",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to safety-belt anchorages, ISOFIX anchorages systems, ISOFIX top tether anchorages and i-Size seating positions"
+    },
+    {
+        "key": "UNR140",
+        "short_title": "ESC Systems",
+        "long_title": "Uniform provisions concerning the approval of passenger cars with regard to Electronic Stability Control (ESC) Systems"
+    },
+    {
+        "key": "UNR141",
+        "short_title": "Tire Pressure Monitoring Systems",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to their Tyre Pressure Monitoring Systems (TPMS)"
+    },
+    {
+        "key": "UNR142",
+        "short_title": "Tyre installation",
+        "long_title": "Proposal for a new Regulation on Tyre Installation"
+    },
+    {
+        "key": "UNR143",
+        "short_title": "Heavy duty dual-fuel engine retrofit systems (HDDF-ERS)",
+        "long_title": "Regulation on uniform provisions concerning the approval of Heavy Duty Dual-Fuel Engine Retrofit Systems (HDDF-ERS) to be installed on heavy duty diesel engines and vehicles"
+    },
+    {
+        "key": "UNR144",
+        "short_title": "Accident Emergency Call Systems (AECS)",
+        "long_title": "Uniform provisions concerning:\nIa. Accident Emergency Call Components (AECC)\nIb. Accident Emergency Call Devices (AECD) which are intended to be fitted to vehicles of categories M1 and N1\nII.\tVehicles with regard to their Accident Emergency Call Systems (AECS) when equipped with an AECD of an approved type\nIII. Vehicles with regard to their Accident Emergency Call Systems (AECS) when equipped with an AECD of non approved type"
+    },
+    {
+        "key": "UNR145",
+        "short_title": "ISOFIX anchorage systems",
+        "long_title": "ISOFIX anchorage systems, ISOFIX top tether anchorages and i-Size seating positions"
+    },
+    {
+        "key": "UNR146",
+        "short_title": "Hydrogen and Fuel Cell Vehicles of category L",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles and their \ncomponents with regard to the safety-related performance of hydrogen-fuelled vehicles of categories L1, L2, L3, L4 and L5 "
+    },
+    {
+        "key": "UNR147",
+        "short_title": "Mechanical coupling components of combinations of agricultural vechicles",
+        "long_title": "Uniform provisions concerning the approval of mechanical coupling components of combinations of agricultural vehicles"
+    },
+    {
+        "key": "UNR148",
+        "short_title": "Light-Signalling Devices (LSD)",
+        "long_title": "UN Regulation on uniform provisions concerning the approval of light-signalling devices (lamps) for power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR149",
+        "short_title": "Road Illumination Devices (RID)",
+        "long_title": "UN Regulation on uniform provisions concerning the approval of road illumination devices (lamps) and systems for power-driven vehicles"
+    },
+    {
+        "key": "UNR149_1.4.0",
+        "short_title": "TODO",
+        "long_title": "TODO"
+    },
+    {
+        "key": "UNR150",
+        "short_title": "Retro-Reflective Devices (RRD)",
+        "long_title": "Uniform provisions concerning the approval of retro-reflective devices and markings for power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR151",
+        "short_title": "Blind-spot information systems (BSIS)",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to the Blind Spot Information System for the Detection of Bicycles"
+    },
+    {
+        "key": "UNR152",
+        "short_title": "Light Vehicle AEBS",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to the Advanced Emergency Braking System (AEBS) for M1 and N1 vehicles"
+    },
+    {
+        "key": "UNR153",
+        "short_title": "Fuel System Integrity and Electric Power Train in a Rear-End Collision",
+        "long_title": "UN Regulation concerning the approval of vehicles with regard to fuel system integrity and safety of electric power train in the event of a rear-end collision"
+    },
+    {
+        "key": "UNR154",
+        "short_title": " Worldwide harmonized Light vehicles Test Procedure (WLTP Regulation)",
+        "long_title": "Uniform provisions concerning the approval of light duty passenger and commercial vehicles with regards to criteria emissions, emissions of carbon dioxide and fuel consumption and/or the measurement of electric energy consumption and electric range (WLTP)"
+    },
+    {
+        "key": "UNR155",
+        "short_title": "Cybersecurity management systems",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to cyber security and of their cybersecurity management systems"
+    },
+    {
+        "key": "UNR156",
+        "short_title": "Software Updates",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regards to software update and software updates management system"
+    },
+    {
+        "key": "UNR157",
+        "short_title": "Automated Lane Keeping Systems",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to Automated Lane Keeping Systems"
+    },
+    {
+        "key": "UNR158",
+        "short_title": "Reversing Motion Detection",
+        "long_title": "Uniform provisions concerning the approval of devices for reversing motion and motor vehicles with regard to the driver\u2019s awareness of vulnerable road users behind vehicles"
+    },
+    {
+        "key": "UNR159",
+        "short_title": "Moving-Off Information Systems (MOIS)",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to the Moving Off Information System for the Detection of Pedestrians and Cyclists"
+    },
+    {
+        "key": "UNR16",
+        "short_title": "Safety-Belts and Restraint Systems, for Occupants of Power-Driven Vehicles",
+        "long_title": "Uniform Provisions Concerning the Approval of: Safety-Belts and Restraint Systems, for Occupants of Power-Driven Vehicles"
+    },
+    {
+        "key": "UNR160",
+        "short_title": "Event Data Recorders (EDR)",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to the Event Data\nRecorder"
+    },
+    {
+        "key": "UNR161",
+        "short_title": "Devices for Protection against Unauthorized Use",
+        "long_title": "UN Regulation No. 161 on uniform provisions concerning \nthe protection of motor vehicles against unauthorized use and \nthe approval of the device against unauthorized use (by mean \nof a locking system)\n"
+    },
+    {
+        "key": "UNR162",
+        "short_title": "Immobilizers and Vehicles Equipped with Immobilizers",
+        "long_title": "UN Regulation No. 162 on uniform technical prescriptions \nconcerning approval of immobilizers and approval of a \nvehicle with regard to its immobilizer\n"
+    },
+    {
+        "key": "UNR163",
+        "short_title": "Vehicle Alarm Systems",
+        "long_title": "UN Regulation No. 163 on uniform provisions concerning the approval of vehicle alarm system and approval of a vehicle with regard to its vehicle alarm system"
+    },
+    {
+        "key": "UNR164",
+        "short_title": "Studded Tyres",
+        "long_title": "UN Regulation No. 164 on uniform provisions concerning \nthe approval of studded tyres with regard to their snow \nperformance"
+    },
+    {
+        "key": "UNR165",
+        "short_title": "Audible  reverse warning devices and of motor vehicles",
+        "long_title": "Uniform provisions concerning the approval of audible \nreverse warning devices and of motor vehicles with regard to \ntheir audible reverse warning signals "
+    },
+    {
+        "key": "UNR166",
+        "short_title": "Awareness of Vulnerable Road Users in Close-Proximity",
+        "long_title": "Uniform Provisions Concerning the Approval of Devices and Motor Vehicles with Regard to the Driver\u2019s Awareness of Vulnerable Road Users in Close-Proximity to the Front and Lateral Sides of Vehicles"
+    },
+    {
+        "key": "UNR166_01_series",
+        "short_title": "Proposal for 01 Series of Amendments to UN Regulation\nNo, 166 (Vulnerable Road Users in Front and Side Close\nProximity)",
+        "long_title": "Proposal for 01 Series of Amendments to UN Regulation\nNo, 166 (Vulnerable Road Users in Front and Side Close\nProximity)"
+    },
+    {
+        "key": "UNR167",
+        "short_title": "Vulnerable Road Users Direct Vision",
+        "long_title": "Uniform Provisions Concerning the Approval of Motor Vehicles with Regard to Their Direct Vision"
+    },
+    {
+        "key": "UNR167_01_series",
+        "short_title": "Proposal for 01 Series of Amendments to UN Regulation\nNo. 167 (Vulnerable Road Users Direct Vision)",
+        "long_title": "Proposal for 01 Series of Amendments to UN Regulation\nNo. 167 (Vulnerable Road Users Direct Vision)"
+    },
+    {
+        "key": "UNR168",
+        "short_title": "Global real driving emissions (RDE)",
+        "long_title": "Proposal for a new UN Regulation No. 168 on uniform provisions concerning the approval of light duty passenger and commercial vehicles with regards to real driving emissions (RDE)"
+    },
+    {
+        "key": "UNR169",
+        "short_title": "Event Data Recorders for Heavy-Duty Vehicles",
+        "long_title": "Proposal of new UN Regulation concerning the Approval of Event Data Recorders for Heavy-Duty Vehicles"
+    },
+    {
+        "key": "UNR16_0.10.0",
+        "short_title": "TODO",
+        "long_title": "TODO"
+    },
+    {
+        "key": "UNR17",
+        "short_title": "Strength of seats, their anchorages  and head restraints",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to the seats, their anchorages and any head restraints"
+    },
+    {
+        "key": "UNR170",
+        "short_title": "Child Restraint Systems for Safer Transport of Children in Buses",
+        "long_title": "Child Restraint Systems for Safer Transport of Children in Buses"
+    },
+    {
+        "key": "UNR171",
+        "short_title": "Driver control assistance systems",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to Driver Control Assistance Systems"
+    },
+    {
+        "key": "UNR171_0.1.0",
+        "short_title": "TODO",
+        "long_title": "TODO"
+    },
+    {
+        "key": "UNR171_1.0.0",
+        "short_title": "TODO",
+        "long_title": "TODO"
+    },
+    {
+        "key": "UNR171_TEST",
+        "short_title": "Test ingestion",
+        "long_title": "Test ingestion"
+    },
+    {
+        "key": "UNR172",
+        "short_title": "Snow grip performance and traction tyre classification for retreaded tyres",
+        "long_title": "Snow grip performance and traction tyre classification for retreaded tyres"
+    },
+    {
+        "key": "UNR173",
+        "short_title": "Safety-belts, restraint systems, child restraint systems, ISOFIX child restraint systems and i-Size child restraint systems",
+        "long_title": "Uniform provisions concerning the approval of: the Installation of safety-belts, restraint systems, child restraint systems, ISOFIX child restraint systems and i-Size child restraint systems"
+    },
+    {
+        "key": "UNR174",
+        "short_title": "Safety-Belt Reminders",
+        "long_title": "Proposal for a New UN Regulation on Safety-Belt Reminders"
+    },
+    {
+        "key": "UNR175",
+        "short_title": " Approval of Acceleration Control for Pedal Error (ACPE)",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles with regard to the Acceleration Control for Pedal Error (ACPE) "
+    },
+    {
+        "key": "UNR176",
+        "short_title": "Field of Vision Assistant Systems",
+        "long_title": "Uniform Prescriptions Concerning Approval of a Vehicle Type with regard to its Field of Vision Assistant Systems"
+    },
+    {
+        "key": "UNR18",
+        "short_title": "Anti-theft of motor vehicles",
+        "long_title": "Uniform Provisions Concerning the Approval of Motor Vehicles with regard to their Protection Against Unauthorized Use"
+    },
+    {
+        "key": "UNR19",
+        "short_title": "Front fog lamps",
+        "long_title": "Uniform Provisions Concerning the Approval of Power-driven Vehicle Front Fog Lamps"
+    },
+    {
+        "key": "UNR20",
+        "short_title": "H4 Halogen Headlamps",
+        "long_title": "Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Emitting an Asymmetrical Passing Beam or a Driving Beam or Both and Equipped with Halogen Filament Lamps (H4 Lamps)"
+    },
+    {
+        "key": "UNR21",
+        "short_title": "Interior Fittings",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to their Interior Fittings"
+    },
+    {
+        "key": "UNR23",
+        "short_title": "Reversing and manoeuvring lamps for power-driven vehicles and their trailers",
+        "long_title": "Uniform provisions concerning the approval of reversing and manoeuvring lamps for power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR24",
+        "short_title": "Visible pollutants, measurement of power of C.I. engines (Diesel smoke)",
+        "long_title": "Uniform provisions concerning,\nI. The approval of compression ignition (C.I.) engines with regard to the emission of visible pollutants\nII. The approval of motor vehicles with regard to the installation of C.I. engines of an approved type\nIII. The approval of motor vehicles equipped with C.I. engines with regard to the emission of visible pollutants by the engine\nIV. The measurement of power of C.I. engine\n"
+    },
+    {
+        "key": "UNR25",
+        "short_title": "Head Restraints",
+        "long_title": "Uniform Provisions Concerning the Approval of Head Restraints (Headrests), Whether or Not Incorporated in Vehicle Seats"
+    },
+    {
+        "key": "UNR26",
+        "short_title": "External Projections of Vehicles",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to their External Projections"
+    },
+    {
+        "key": "UNR27",
+        "short_title": "Advance warning triangles",
+        "long_title": "Uniform provisions concerning the approval of advance warning triangles"
+    },
+    {
+        "key": "UNR28",
+        "short_title": "Audible warning devices",
+        "long_title": "Uniform provisions concerning the approval of audible warning devices and of motor vehicles with regard to their audible signals"
+    },
+    {
+        "key": "UNR29",
+        "short_title": "Commercial Vehicle Cab Occupant Protection",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to the Protection of the Occupants of the Cab of a Commercial Vehicles"
+    },
+    {
+        "key": "UNR3",
+        "short_title": "Retro-reflecting Devices",
+        "long_title": "Uniform provisions concerning the approval of retro-reflecting devices for power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR30",
+        "short_title": "Pneumatic Tires",
+        "long_title": "Uniform Provisions Concerning the Approval of Pneumatic Tyres for Motor Vehicles and their Trailers"
+    },
+    {
+        "key": "UNR31",
+        "short_title": " Sealed Beam European Headlamps for Motor Vehicles",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF POWER-DRIVEN VEHICLE'S HALOGEN SEALED-BEAM HEADLAMPS (HSB) EMITTING A EUROPEAN ASYMMETRICAL PASSING BEAM OR A DRIVING BEAM OR BOTH"
+    },
+    {
+        "key": "UNR32",
+        "short_title": "Rear-end collision",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to the behaviour of the structure of the impacted vehicle in a rear-end collision"
+    },
+    {
+        "key": "UNR33",
+        "short_title": "Head-on collision",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to the behaviour of the structure of the impacted vehicle in a head-on collision"
+    },
+    {
+        "key": "UNR34",
+        "short_title": "Prevention of Fire Risks",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to the Prevention of Fire Risks"
+    },
+    {
+        "key": "UNR35",
+        "short_title": "Foot controls",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF VEHICLES  WITH REGARD TO THE ARRANGEMENT OF FOOT CONTROLS"
+    },
+    {
+        "key": "UNR36",
+        "short_title": "General construction of large passenger vehicles",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF LARGE PASSENGER VEHICLES WITH REGARD TO THEIR GENERAL CONSTRUCTION"
+    },
+    {
+        "key": "UNR37",
+        "short_title": "Filament light sources",
+        "long_title": "Uniform provisions concerning the approval of filament light sources for use in approved lamps of power-driven vehicles and of their trailers"
+    },
+    {
+        "key": "UNR38",
+        "short_title": "Rear Fog Lamps",
+        "long_title": "Uniform Provisions Concerning the Approval of Rear Fog Lamps for Power-driven Vehicles and their Trailers"
+    },
+    {
+        "key": "UNR39",
+        "short_title": "Speedometer and odometer",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to \nthe speedometer and odometer equipment including its installation\n"
+    },
+    {
+        "key": "UNR4",
+        "short_title": "Illumination of rear registration plates",
+        "long_title": "Uniform provisions for the approval of devices for the illumination of rear registration plates of motor vehicles (except motor cycles)and their trailers"
+    },
+    {
+        "key": "UNR40",
+        "short_title": "Emission of gaseous pollutants of motor cycles",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF MOTORCYCLES EQUIPPED WITH A POSITIVE-IGNITION ENGINE WITH REGARD TO THE EMISSION OF GASEOUS POLLUTANTS BY THE ENGINE"
+    },
+    {
+        "key": "UNR40_generic",
+        "short_title": "UN R40 Generic files",
+        "long_title": "UN R40 Generic files"
+    },
+    {
+        "key": "UNR41",
+        "short_title": "Noise emissions of motorcycles",
+        "long_title": "Uniform provisions concerning the approval of motor cycles with\nregard to noise"
+    },
+    {
+        "key": "UNR42",
+        "short_title": "Front and rear protective devices (bumpers)",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF VEHICLES WITH REGARD TO THEIR FRONT AND REAR PROTECTIVE DEVICES (BUMPERS, ETC.)"
+    },
+    {
+        "key": "UNR43",
+        "short_title": "Safety glazing",
+        "long_title": "Uniform provisions concerning the approval of safety glazing materials and their installation on vehicles"
+    },
+    {
+        "key": "UNR44",
+        "short_title": "Child Restraint Systems",
+        "long_title": "Uniform Provisions Concerning the Approval of Restraining Devices for Child Occupants of Power-driven Vehicles (\u201cChild Restraint System\u201d)"
+    },
+    {
+        "key": "UNR45",
+        "short_title": "Headlamp Cleaners",
+        "long_title": "Uniform Provisions Concerning the Approval of Headlamp Cleaners and of Power-driven Vehicles with regard to Headlamp Cleaners"
+    },
+    {
+        "key": "UNR46",
+        "short_title": "Devices for indirect vision",
+        "long_title": "Uniform provisions concerning the approval of devices for indirect vision and of motor vehicles with regard to the installation of these devices"
+    },
+    {
+        "key": "UNR47",
+        "short_title": "Emission of gaseous pollutants of mopeds",
+        "long_title": "Uniform Provisions Concerning the approval of mopeds equipped with a positive-ignition engine with regard to the emission of gaseous pollutants by the engine "
+    },
+    {
+        "key": "UNR48",
+        "short_title": "Installation of Lighting and Lighting-Signalling Equipment",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to the Installation of Lighting and Light-signalling Devices"
+    },
+    {
+        "key": "UNR49",
+        "short_title": "Emission of gaseous and particulate pollutants from C.I. and P.I. engines",
+        "long_title": "Uniform provisions concerning the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines and positive ignition engines for use in vehicles"
+    },
+    {
+        "key": "UNR49_GENERIC_7.2.0",
+        "short_title": "GENERIC49 7.2.0 ",
+        "long_title": "GENERIC49 7.2.0 "
+    },
+    {
+        "key": "UNR5",
+        "short_title": "Sealed beam headlamps (SB)",
+        "long_title": "Uniform provisions concerning the approval of power-driven vehicle's \"sealed beam\" headlamps (SB) emitting a European asymmetrical passing beam or a driving beam or both"
+    },
+    {
+        "key": "UNR50",
+        "short_title": "Position, stop, direction indicator lamps for mopeds and motorcycles",
+        "long_title": "Uniform provisions concerning the approval of front position lamps, rear position lamps, stop lamps, direction indicators and rear-registration-plate illuminating devices for vehicles of category L"
+    },
+    {
+        "key": "UNR51",
+        "short_title": "Sound of M and N categories of vehicles",
+        "long_title": "Uniform provisions concerning the approval of motor vehicles having at least four wheels with regard to their sound emissions"
+    },
+    {
+        "key": "UNR52",
+        "short_title": "General construction small capacity vehicles",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF M2 AND M3 SMALL CAPACITY VEHICLES WITH REGARD TO THEIR GENERAL CONSTRUCTION"
+    },
+    {
+        "key": "UNR53",
+        "short_title": "Installation of lighting and light-signalling devices for L3 vehicles",
+        "long_title": "Uniform provisions concerning the approval of category L3 vehicles with regard to the installation of lighting and light-signalling devices"
+    },
+    {
+        "key": "UNR54",
+        "short_title": "Commercial Vehicle Tyres",
+        "long_title": "Uniform Provisions Concerning the Approval of Pneumatic Tyres for Commercial Vehicles and their Trailers"
+    },
+    {
+        "key": "UNR55",
+        "short_title": "Mechanical Coupling Components",
+        "long_title": "Uniform provisions concerning the approval of mechanical coupling components of combinations of vehicles"
+    },
+    {
+        "key": "UNR56",
+        "short_title": "Headlamps (Mopeds)",
+        "long_title": "Uniform provisions concerning the approval of Headlamps for Mopeds and Vehicles treated as such"
+    },
+    {
+        "key": "UNR57",
+        "short_title": "Headlamps for motor cycles and vehicles",
+        "long_title": "Uniform provisions concerning the approval of headlamps for motor cycles and vehicles treated as such"
+    },
+    {
+        "key": "UNR58",
+        "short_title": "Rear Underrun Protection Devices",
+        "long_title": "Uniform Provisions Concerning the Approval of:\n\nI. Rear Underrun Protective Devices (RUPDS)\nII. Vehicles with regard to the Installation of an RUPD of an Approved Type\nIII. Vehicles with regard to their Rear Underrun Protection (RUP)"
+    },
+    {
+        "key": "UNR59",
+        "short_title": "Replacement Silencing Systems",
+        "long_title": "Uniform Provisions Concerning the Approval of Replacement Silencing Systems"
+    },
+    {
+        "key": "UNR6",
+        "short_title": " Direction indicators",
+        "long_title": "Uniform provisions concerning the approval of direction indicators for power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR60",
+        "short_title": "Driver operated controls for mopeds and motorcycles",
+        "long_title": "Uniform provisions concerning the approval of two-wheeled motor cycles and mopeds with regard to driver-operated controls including the identification of controls, tell-tales and indicators"
+    },
+    {
+        "key": "UNR61",
+        "short_title": "Commercial Vehicle External Projections",
+        "long_title": "Uniform Provisions Concerning the Approval of Commercial Vehicles with regard to their External Projections Forward of the Cab\u2019s Rear Panel"
+    },
+    {
+        "key": "UNR62",
+        "short_title": "Power-driven Vehicles with Handlebars",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF POWER-DRIVEN VEHICLES WITH HANDLEBARS WITH REGARD TO THEIR PROTECTION AGAINST UNAUTHORIZED USE"
+    },
+    {
+        "key": "UNR63",
+        "short_title": "Noise Emissions of Mopeds",
+        "long_title": "Uniform provisions concerning the approval of two-wheeled mopeds with regard to noise"
+    },
+    {
+        "key": "UNR64",
+        "short_title": "Temporary-use Tires",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to their equipment which may include: a temporary use spare unit, run flat tyres and/or a run flat system and/or extended mobility tyres"
+    },
+    {
+        "key": "UNR65",
+        "short_title": "Special warning lamps for power-driven vehicles and their trailers",
+        "long_title": "Uniform provisions concerning the approval of special warning lamps for power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR66",
+        "short_title": "Superstructure Strength of Large Passenger Vehicles",
+        "long_title": "Uniform Technical Prescriptions Concerning the Approval of Large Passenger Vehicles with regard to the Strength of their Superstructure"
+    },
+    {
+        "key": "UNR67",
+        "short_title": "Liquefied Petroleum Gas Equipment",
+        "long_title": "Uniform Provisions Concerning the Approval of:\nI. Specific Equipment of Motor Vehicles Using Liquefied Petroleum Gases in their Propulsion System\nII. A Vehicle Fitted with Specific Equipment for the Use of Liquefied Petroleum Gases in its Propulsion System with regard to the Installation of such Equipment"
+    },
+    {
+        "key": "UNR68",
+        "short_title": "Measurement of maximum speed",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF POWER-DRIVEN VEHICLES INCLUDING PURE ELECTRIC VEHICLES WITH REGARD TO THE MEASUREMENT OF THE MAXIMUM SPEED\n"
+    },
+    {
+        "key": "UNR69",
+        "short_title": "Rear marking plates for slow-moving vehicles and their trailers",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF REAR MARKING PLATES FOR SLOW-MOVING VEHICLES (BY CONSTRUCTION) AND THEIR TRAILERS"
+    },
+    {
+        "key": "UNR7",
+        "short_title": "Position, stop and end-outline lamps",
+        "long_title": "Uniform Provisions Concerncing the Approval of Front and Rear Position (Side) Lamps, Stop-Lamps and End-Outline Marker Lamps for Motor Vehicles (Except Motor Cycles)and their Trailers"
+    },
+    {
+        "key": "UNR70",
+        "short_title": "Rear marking plates for heavy and long vehicles",
+        "long_title": "Uniform provisions concerning the approval of rear marking plates for heavy and long vehicles"
+    },
+    {
+        "key": "UNR73",
+        "short_title": "Lateral protection devices",
+        "long_title": "Uniform provisions concerning the approval of:\nI. Vehicles with regard to their lateral protection devices (LPD)\nII. Lateral protection devices (LPD)\nIII. Vehicles with regard to the installation of LPD of an approved type according to Part II of this Regulation"
+    },
+    {
+        "key": "UNR77",
+        "short_title": "Parking Lamps",
+        "long_title": "Uniform Provisions Concerning the Approval of Parking Lamps for Power-driven Vehicles"
+    },
+    {
+        "key": "UNR79",
+        "short_title": "Steering Equipment",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to steering equipment"
+    },
+    {
+        "key": "UNR8",
+        "short_title": "Halogen filament lamps",
+        "long_title": "UNIFORM PROVISIONS CONCERNING THE APPROVAL OF MOTOR VEHICLE HEADLAMPS EMITTING AN ASYMMETRICAL PASSING BEAM OR A DRIVING BEAM OR BOTH AND EQUIPPED WITH HALOGEN FILAMENT LAMPS (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 and/or H11)"
+    },
+    {
+        "key": "UNR80",
+        "short_title": "Seats of large passenger vehicles",
+        "long_title": "Uniform provisions concerning the approval of seats of large passenger vehicles and of these vehicles with regard to the strength of the seats and their anchorages"
+    },
+    {
+        "key": "UNR83",
+        "short_title": "Motor Vehicle Emissions",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to the Emission of Pollutants According to Engine Fuel Requirements"
+    },
+    {
+        "key": "UNR85",
+        "short_title": "Power Measurement of Internal Combustion Engines and Electric Motors",
+        "long_title": "Uniform Provisions Concerning the Approval of Internal Combustion Engines or Electric Drive Trains Intended for the Propulsion of Motor Vehicles of Categories M and N with regard to the Measurement of the Net Power and the Maximum 30 Minutes Power of Electric Drive Trains"
+    },
+    {
+        "key": "UNR86",
+        "short_title": "Installation of lighting and light-signalling devices for agricultural vehicles",
+        "long_title": "Uniform provisions concerning the approval of agricultural or forestry vehicles with regard to the installation of lighting and light-signalling devices"
+    },
+    {
+        "key": "UNR87",
+        "short_title": "Daytime Running Lamps",
+        "long_title": "Uniform Provisions Concerning the Approval of Daytime Running Lamps for Power-driven Vehicles"
+    },
+    {
+        "key": "UNR89",
+        "short_title": "Speed Limitation Devices",
+        "long_title": "Uniform provisions concerning the approval of:\nI. Vehicles with regard to limitation of their maximum speed or their adjustable speed\nlimitation function\nII. Vehicles with regard to the installation of a speed limiting device (SLD) or adjustable speed limitation device (ASLD) of an approved type\nIII. Speed limitation devices (SLD) ) and adjustable speed limitation device (ASLD)"
+    },
+    {
+        "key": "UNR9",
+        "short_title": "Noise of L-Category vehicles",
+        "long_title": "Uniform provisions concerning the approval of category L2, L4 and L5 vehicles with regard to noise"
+    },
+    {
+        "key": "UNR90",
+        "short_title": "Replacement Brake Linings, Discs, and Drums",
+        "long_title": "Uniform provisions concerning the approval of replacement brake lining assemblies, drum brake linings and discs and drums for power-driven vehicles and their trailers"
+    },
+    {
+        "key": "UNR91",
+        "short_title": "Side-Marker Lamps",
+        "long_title": "Uniform Provisions Concerning the Approval of Side-Marker Lamps for Motor Vehicles and their Trailers"
+    },
+    {
+        "key": "UNR93",
+        "short_title": "Front underrun protective devices",
+        "long_title": "Agreement concerning the adoption of uniform conditions of approval and reciprocal recognition of approval for motor vehicle equipment and parts"
+    },
+    {
+        "key": "UNR94",
+        "short_title": "Frontal collision protection",
+        "long_title": "Uniform provisions concerning the approval of vehicles with regard to the protection of the occupants in the event of a frontal collision"
+    },
+    {
+        "key": "UNR95",
+        "short_title": "Occupant Protection in Lateral Collisions",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicles with regard to the Protection of the Occupants in the Event of a Lateral Collision"
+    },
+    {
+        "key": "UNR96",
+        "short_title": "Emissions from Non-Road Mobile Machinery (NRMM) engines",
+        "long_title": "Uniform provisions concerning the approval of engines to be installed in agricultural and forestry tractors and in non-road mobile machinery with regard to the emissions of pollutants by the engine"
+    },
+    {
+        "key": "UNR97",
+        "short_title": "Vehicle Alarm Systems",
+        "long_title": "Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with regard to their Alarm Systems (AS)"
+    },
+    {
+        "key": "UNR98",
+        "short_title": "Headlamps Equipped with Gas-discharge Light Sources",
+        "long_title": "Uniform Provisions Concerning the Approval of Motor Vehicle Headlamps Equipped with Gas-discharge Light Sources"
+    },
+    {
+        "key": "UNR99",
+        "short_title": "Gas-discharge Light Sources",
+        "long_title": "Uniform provisions concerning the approval of gas-discharge light sources for use in approved lamps of power-driven vehicles"
+    },
+    {
+        "key": "UNRE3",
+        "short_title": "Consolidated Resolution on the Construction of Vehicles (R.E.3)",
+        "long_title": "Consolidated Resolution on the Construction of Vehicles (R.E.3)"
+    },
+    {
+        "key": "UNRE7",
+        "short_title": "Consolidated Resolution concerning Exhaust Ultra-Fine Particle Number Measurement For Heavy Duty Engines",
+        "long_title": "Consolidated Resolution No. 7 (R.E.7) concerning Exhaust Ultra-Fine Particle Number Measurement For Heavy Duty Engines"
+    },
+    {
+        "key": "UNR_XXGENERIC1",
+        "short_title": "GENERIC1",
+        "long_title": "GENERIC1"
+    }
+]
