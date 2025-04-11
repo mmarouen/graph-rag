@@ -10,7 +10,7 @@ import json
 
 FILENAME = 'data/un_regulations_157_graph.json'
 USERNAME = 'neo4j'
-PASSWORD = 'ADM16600'
+PASSWORD = os.environ.get("NEO4J_PWD")
 URI = 'neo4j://localhost:7687'
 MODEL_NAME = 'llama3-70b-8192'
 OPENAI_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcHAiLCJleHAiOjE3OTk5OTk5OTksInN1YiI6MTc1NTM2MywiYXVkIjoiV0VCIiwiaWF0IjoxNjk0MDc2ODUxfQ.4ySh5zSCHGDMkitFWvWMPXdzwYdMY-0Dc33vpMjCgZA'
